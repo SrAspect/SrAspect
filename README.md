@@ -7,5 +7,4 @@ I'am currently a B.Sc Software Engineering Student.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="24" height="24">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="24" height="24">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="24" height="24">
-  <img src="https://svgshare.com/i/Waw.svg" width="24" height="24">
 </div>

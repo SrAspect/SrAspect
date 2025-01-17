@@ -1,4 +1,4 @@
-### Hello, I'm Aspect 👋
+### Hello, I'm Yohana AKA Aspect 👋
 I'am currently a B.Sc Software Engineering Student.
 <div>
   <h3>Languages and Frameworks:</h3>

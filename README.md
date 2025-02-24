@@ -1,5 +1,5 @@
 ### Hello, I'm Yohana, A.K.A Aspect 👋
-I'am currently a B.Sc Software Engineering Student.
+I'm currently a B.Sc Software Engineering Student.
 <div>
   <h3>Languages and Frameworks:</h3>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="24" height="24">
